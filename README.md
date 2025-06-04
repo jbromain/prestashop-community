@@ -11,7 +11,7 @@ Les distributions sont construites manuellement par mes soins lorsqu'une nouvell
 
 ## Qu'est-ce que la version communautaire de PrestaShop ?
 
-La société PrestaShop SA distribue une seule version de PrestaShop: elle inclut le projet Open Source, bien sûr, mais aussi plusieurs modules propriétaires.
+A partir de Prestashop 9, la société PrestaShop SA distribue une seule version de PrestaShop: elle inclut le projet Open Source, bien sûr, mais aussi plusieurs modules propriétaires.
 
 Ces modules sont conçus dans un but commercial et ne sont pas nécessaires au fonctionnement du logiciel PrestaShop. Ils sont parfois lourds et peuvent ralentir inutilement la boutique.
 
@@ -37,7 +37,7 @@ The builds are manually created by me when a new version is officially released,
 
 ## What is the PrestaShop community version?
 
-PrestaShop SA, the company, distributes a single version of PrestaShop: this includes the Open Source project, of course, but also many proprietary modules.
+Since version 9, PrestaShop SA (the company) distributes a single version of PrestaShop: this includes the Open Source project, of course, but also many proprietary modules.
 
 These modules are intended for commercial purposes and are not required for the PrestaShop software to function. They are sometimes heavy and can slow down the store unnecessarily.
 
