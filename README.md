@@ -9,6 +9,8 @@ De ce fait les distributions ne contiennent pas les modules distribués par Pres
 
 Les distributions sont construites manuellement par mes soins lorsqu'une nouvelle version est officiellement disponible, parfois avec un délai de quelques jours.
 
+Dernière version disponible: 9.0.0 (stable)
+
 ## Qu'est-ce que la version communautaire de PrestaShop ?
 
 A partir de Prestashop 9, la société PrestaShop SA distribue une seule version de PrestaShop: elle inclut le projet Open Source, bien sûr, mais aussi plusieurs modules propriétaires.
@@ -34,6 +36,8 @@ This repository stores community versions of PrestaShop, i.e., distributions bui
 The builds therefore do not contain the modules distributed by PrestaShop SA.
 
 The builds are manually created by me when a new version is officially released, so there may be a few days' delay.
+
+Last available version: 9.0.0 (stable)
 
 ## What is the PrestaShop community version?
 
