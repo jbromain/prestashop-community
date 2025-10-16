@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/v/release/jbromain/prestashop-community?sort=semver)](https://github.com/jbromain/prestashop-community/releases)
+
 (English below)
 
 # Version communautaire de PrestaShop
@@ -8,8 +10,6 @@ Ce dépôt stocke les versions communautaires de PrestaShop, c'est-à-dire les d
 De ce fait les distributions ne contiennent pas les modules distribués par PrestaShop SA.
 
 Les distributions sont construites manuellement par mes soins lorsqu'une nouvelle version est officiellement disponible, parfois avec un délai de quelques jours.
-
-Dernière version disponible: 9.0.1 (stable)
 
 ## Qu'est-ce que la version communautaire de PrestaShop ?
 
@@ -36,8 +36,6 @@ This repository stores community versions of PrestaShop, i.e., distributions bui
 The builds therefore do not contain the modules distributed by PrestaShop SA.
 
 The builds are manually created by me when a new version is officially released, so there may be a few days' delay.
-
-Last available version: 9.0.1 (stable)
 
 ## What is the PrestaShop community version?
 
