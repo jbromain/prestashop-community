@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/v/release/jbromain/prestashop-community?sort=semver)](https://github.com/jbromain/prestashop-community/releases)
+
 (English below)
 
 # Version communautaire de PrestaShop
