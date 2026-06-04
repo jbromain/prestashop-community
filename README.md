@@ -11,7 +11,7 @@ De ce fait les distributions ne contiennent pas les modules distribués par Pres
 
 Les distributions sont construites manuellement par mes soins lorsqu'une nouvelle version est officiellement disponible, parfois avec un délai de quelques jours.
 
-Dernière version disponible: 9.1.3 (stable)
+Dernière version disponible: 9.1.4 (stable)
 
 ## Qu'est-ce que la version communautaire de PrestaShop ?
 
@@ -39,7 +39,7 @@ The builds therefore do not contain the modules distributed by PrestaShop SA.
 
 The builds are manually created by me when a new version is officially released, so there may be a few days' delay.
 
-Last available version: 9.1.3 (stable)
+Last available version: 9.1.4 (stable)
 
 ## What is the PrestaShop community version?
 
