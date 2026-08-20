@@ -10,7 +10,7 @@ Este repositorio aloja las compilaciones comunitarias de PrestaShop, generadas a
 
 Las compilaciones se elaboran manualmente cada vez que se publica oficialmente una nueva versión upstream. Por este motivo, las publicaciones de este repositorio pueden aparecer con un breve retraso respecto al proyecto original.
 
-**Última versión disponible:** `9.1.1` (estable)
+**Última versión disponible:** 9.1.5 (estable) et 9.2.0 (beta 1)
 
 ## ¿Qué es PrestaShop Community Edition?
 
