@@ -10,7 +10,7 @@ This repository hosts community builds of PrestaShop, compiled from the upstream
 
 Builds are produced manually whenever a new upstream version is officially released. As a result, releases in this repository may be published with a short delay relative to the upstream project.
 
-**Latest available version:** `9.1.1` (stable)
+**Latest available version:** 9.1.5 (stable) et 9.2.0 (beta 1)
 
 ## What is the PrestaShop Community Edition?
 
